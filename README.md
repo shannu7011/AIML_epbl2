@@ -1,6 +1,6 @@
 # Artificial Intelligence and Machine Learning
 
-> For a assignment , only one jupyter notebook must be submitted.
+https://colab.research.google.com/drive/1oo_rxfK_T3ZOK68vQpp-qCfMhhBrjv9N#scrollTo=6AIVcVGiS8mI&line=1&uniqifier=1
 
 
 
